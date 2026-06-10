@@ -1,15 +1,181 @@
-[![logo](https://github.com/anshlamba03/anshlamba03/raw/main/coveransh.png)](https://github.com/anshlamba03/anshlamba03/blob/main/coveransh.png)
+<h1 align="center">Hi 👋, I'm Manoranjan Reddy</h1>
 
-# Hi 👋, I'm Manoranjan Reddy Karedla
+<h3 align="center">
+🚀 Data Engineer | ⚡ Power Platform Developer | ☁️ Azure Enthusiast
+</h3>
 
-#### I am a passionate Data Engineer and Power Platform Developer with hands-on experience building end-to-end data solutions on Microsoft Azure. I work with tools like Azure Data Factory, Databricks, Azure Synapse Analytics, Delta Lake, and the Data Lakehouse to build efficient data pipelines. On the Power Platform side, I develop intelligent apps using Power Apps, Power Automate, Power BI, Power Pages, AI Builder, and Copilot Studio (Virtual Agents). I love learning and continuously improving my skills to stay up-to-date with the latest in the field.
+<p align="center">
+Passionate about transforming data into insights and building intelligent business applications using Microsoft technologies.
+</p>
 
-[![Coding](https://camo.githubusercontent.com/ea1d8f76da965e6d516eb8c5aabedda58231ef1a1b480f902a1362a04bbaa01f/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3637392f312a7a566e574a7479474f585f6b5549446d3663634366512e676966)](https://camo.githubusercontent.com/ea1d8f76da965e6d516eb8c5aabedda58231ef1a1b480f902a1362a04bbaa01f/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3637392f312a7a566e574a7479474f585f6b5549446d3663634366512e676966)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Simha-manoranjan-reddy&label=Profile%20Views&color=blue&style=for-the-badge" alt="profile views" />
+</p>
 
-- 🔭 I'm a **Data Engineer & Power Platform Developer**
+---
 
-- 💬 LinkedIn **https://www.linkedin.com/in/manoranjan-reddy-karedla-b45179197/**
+## 🚀 About Me
 
-### Languages and Tools:
+I am a passionate **Data Engineer** and **Power Platform Developer** with hands-on experience building end-to-end data solutions on Microsoft Azure and creating business applications using the Microsoft Power Platform.
 
-[![azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg)](https://azure.microsoft.com/en-in/) &nbsp; [![adf](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg)](https://azure.microsoft.com/en-in/products/data-factory) &nbsp; [![databricks](https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg)](https://databricks.com/) &nbsp; [![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/) &nbsp; [![mssql](https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg)](https://www.microsoft.com/en-us/sql-server) &nbsp; [![mysql](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)](https://www.mysql.com/) &nbsp; [![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org) &nbsp; [![pandas](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg)](https://pandas.pydata.org/) &nbsp; [![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://www.linux.org/) &nbsp; [![powerbi](https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg)](https://powerbi.microsoft.com/) &nbsp; [![powerapps](https://www.vectorlogo.zone/logos/microsoft_powerapps/microsoft_powerapps-icon.svg)](https://powerapps.microsoft.com/)
+I enjoy designing scalable data architectures, automating business processes, and developing low-code solutions that solve real-world problems.
+
+### 💡 What I Work With
+
+- ☁️ Azure Data Factory
+- ⚡ Azure Databricks
+- 📊 Azure Synapse Analytics
+- 🏗️ Delta Lake & Lakehouse Architecture
+- 🗄️ Azure Data Lake Storage Gen2
+- 📱 Power Apps
+- 🔄 Power Automate
+- 📈 Power BI
+- 🌐 Power Pages
+- 🤖 AI Builder
+- 🧠 Copilot Studio (Virtual Agents)
+- 💾 Dataverse
+- 🌍 REST APIs & Microsoft Graph API
+
+---
+
+## 🛠️ Tech Stack
+
+### Data Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=azure,python,mysql,git,github" />
+</p>
+
+- Azure Data Factory
+- Azure Databricks
+- Azure Synapse Analytics
+- Azure Data Lake Storage Gen2
+- Delta Lake
+- Lakehouse Architecture
+- PySpark
+- SQL
+
+### Power Platform
+
+- Power Apps
+- Power Automate
+- Power BI
+- Power Pages
+- Dataverse
+- AI Builder
+- Copilot Studio
+- Power Platform ALM
+
+### Development
+
+- JavaScript
+- HTML
+- CSS
+- REST APIs
+- Microsoft Graph API
+- Git & GitHub
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Simha-manoranjan-reddy&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simha-manoranjan-reddy&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Simha-manoranjan-reddy&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Areas of Expertise
+
+✅ Azure Data Engineering
+
+✅ ETL / ELT Pipeline Development
+
+✅ Azure Data Factory
+
+✅ Azure Databricks & PySpark
+
+✅ Azure Synapse Analytics
+
+✅ Data Lakehouse Architecture
+
+✅ Power Apps Development
+
+✅ Power Automate Workflows
+
+✅ Power Pages Development
+
+✅ Dataverse Security & Table Permissions
+
+✅ REST APIs Integration
+
+✅ Microsoft Graph API
+
+✅ AI Builder & Copilot Studio
+
+---
+
+## 📂 Featured Projects
+
+### 🏢 Employee Leave Management Portal
+- Power Pages
+- Dataverse
+- Power Automate Approval Workflow
+- Role-Based Security
+
+### 👥 Employee Onboarding Portal
+- Power Apps
+- Power Automate
+- Dataverse
+- Document Management
+
+### 📊 Azure Data Lakehouse Solution
+- Azure Data Factory
+- Databricks
+- Delta Lake
+- Synapse Analytics
+
+### 📈 Business Analytics Dashboard
+- Power BI
+- Azure SQL
+- Data Factory
+- Interactive Reporting
+
+---
+
+## 🌱 Currently Learning
+
+- Microsoft Fabric
+- Advanced Power Pages Security
+- Copilot Studio
+- Generative AI
+- Enterprise Data Architecture
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<h3 align="center">
+⭐ Building scalable data solutions and intelligent business applications with Microsoft Technologies
+</h3>
