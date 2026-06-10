@@ -63,22 +63,58 @@ Alongside Data Engineering, I have experience delivering business applications a
 
 ## 🧰 Languages & Tools
 
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure%20Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Delta%20Lake-00B4D8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Azure%20Data%20Lake%20Storage%20Gen2-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20Pages-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20Builder-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Copilot%20Studio-00B4D8?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="55" height="55"/>
+  </a>
+
+  <a href="https://spark.apache.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="PySpark" width="55" height="55"/>
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55"/>
+  </a>
+
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="55" height="55"/>
+  </a>
+
+  <a href="https://www.databricks.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Databricks" width="55" height="55"/>
+  </a>
+
+  <a href="https://delta.io/" target="_blank">
+    <img src="https://delta.io/static/939a0d0d7f3f8f45dd9c4f7a55c70db4/delta-lake-white.png" alt="Delta Lake" width="55" height="55"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="ADLS Gen2" width="55" height="55"/>
+  </a>
+
+  <a href="https://powerapps.microsoft.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerapps/microsoft_powerapps-icon.svg" alt="Power Apps" width="55" height="55"/>
+  </a>
+
+  <a href="https://powerautomate.microsoft.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerautomate/microsoft_powerautomate-icon.svg" alt="Power Automate" width="55" height="55"/>
+  </a>
+
+  <a href="https://powerpages.microsoft.com/" target="_blank">
+    <img src="https://img.icons8.com/color/96/microsoft.png" alt="Power Pages" width="55" height="55"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/en-us/ai-builder/" target="_blank">
+    <img src="https://img.icons8.com/color/96/artificial-intelligence.png" alt="AI Builder" width="55" height="55"/>
+  </a>
+
+  <a href="https://copilotstudio.microsoft.com/" target="_blank">
+    <img src="https://img.icons8.com/color/96/chatbot.png" alt="Copilot Studio" width="55" height="55"/>
+  </a>
 </p>
 
----
+
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:107C10,50:5C2D91,100:0078D4&height=100&section=footer" width="100%"/>
