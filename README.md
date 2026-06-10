@@ -1,97 +1,15 @@
-<div align="center">
+[![logo](https://github.com/anshlamba03/anshlamba03/raw/main/coveransh.png)](https://github.com/anshlamba03/anshlamba03/blob/main/coveransh.png)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:5C2D91&height=200&section=header&text=Manoranjan%20Reddy%20Karedla&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20Power%20Platform%20Developer&descAlignY=55&descSize=18" width="100%"/>
+# Hi 👋, I'm Manoranjan Reddy Karedla
 
-</div>
+#### I am a passionate Data Engineer and Power Platform Developer with hands-on experience building end-to-end data solutions on Microsoft Azure. I work with tools like Azure Data Factory, Databricks, Azure Synapse Analytics, Delta Lake, and the Data Lakehouse to build efficient data pipelines. On the Power Platform side, I develop intelligent apps using Power Apps, Power Automate, Power BI, Power Pages, AI Builder, and Copilot Studio (Virtual Agents). I love learning and continuously improving my skills to stay up-to-date with the latest in the field.
 
-<h3 align="center">
-  💡 Transforming data into decisions — on Azure and beyond.
-</h3>
+[![Coding](https://camo.githubusercontent.com/ea1d8f76da965e6d516eb8c5aabedda58231ef1a1b480f902a1362a04bbaa01f/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3637392f312a7a566e574a7479474f585f6b5549446d3663634366512e676966)](https://camo.githubusercontent.com/ea1d8f76da965e6d516eb8c5aabedda58231ef1a1b480f902a1362a04bbaa01f/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3637392f312a7a566e574a7479474f585f6b5549446d3663634366512e676966)
 
-<p align="center">
-  <a href="https://in.linkedin.com/in/manoranjan-reddy-karedla-b45179197">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Hyderabad,%20India-FF5733?style=for-the-badge&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Engineering%20%26%20Power%20Platform-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" />
-</p>
+- 🔭 I'm a **Data Engineer & Power Platform Developer**
 
----
+- 💬 LinkedIn **https://www.linkedin.com/in/manoranjan-reddy-karedla-b45179197/**
 
-## 👨‍💻 About Me
+### Languages and Tools:
 
-I'm a **Data Engineer & Power Platform Developer** passionate about building end-to-end data solutions on **Microsoft Azure** and empowering business users through the **Microsoft Power Platform**.
-
-- 🔭 I work on **scalable data pipelines**, **cloud analytics**, and **low-code automation**
-- ⚡ I build on the full **Azure Data stack** — from ingestion to insight
-- 🤖 I create intelligent apps using **AI Builder** and **Virtual Agents (Copilot Studio)**
-- 🎯 I believe in making data accessible to everyone — not just engineers
-
----
-
-## 🛠️ Tech Stack
-
-### ☁️ Azure Data Platform
-
-<p>
-  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure%20Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure%20Synapse%20Analytics-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure%20Data%20Lake-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure%20SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Delta%20Lake-00B4D8?style=for-the-badge&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure%20Event%20Hubs-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white"/>
-</p>
-
-### ⚡ Microsoft Power Platform
-
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20Pages-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20Builder-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Copilot%20Studio-00B4D8?style=for-the-badge&logo=microsoft&logoColor=white"/>
-</p>
-
-### 🧰 Languages & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Simha-manoranjan-reddy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simha-manoranjan-reddy&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Simha-manoranjan-reddy&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [⚡ petroflow](https://github.com/Simha-manoranjan-reddy/petroflow) | Azure End-to-End Energy Analytics Pipeline | ADF, Databricks, Synapse, DevOps |
-| [🌱 carbonemission-azure](https://github.com/Simha-manoranjan-reddy/carbonemission-azure) | Carbon Emission Analytics on Azure | Azure, Python |
-| [📓 journey](https://github.com/Simha-manoranjan-reddy/journey) | Personal growth & project tracker | Python |
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C2D91,100:0078D4&height=100&section=footer" width="100%"/>
-
-</div>
+[![azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg)](https://azure.microsoft.com/en-in/) &nbsp; [![adf](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg)](https://azure.microsoft.com/en-in/products/data-factory) &nbsp; [![databricks](https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg)](https://databricks.com/) &nbsp; [![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/) &nbsp; [![mssql](https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg)](https://www.microsoft.com/en-us/sql-server) &nbsp; [![mysql](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)](https://www.mysql.com/) &nbsp; [![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org) &nbsp; [![pandas](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg)](https://pandas.pydata.org/) &nbsp; [![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://www.linux.org/) &nbsp; [![powerbi](https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg)](https://powerbi.microsoft.com/) &nbsp; [![powerapps](https://www.vectorlogo.zone/logos/microsoft_powerapps/microsoft_powerapps-icon.svg)](https://powerapps.microsoft.com/)
