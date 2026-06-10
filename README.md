@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,50:5C2D91,100:107C10&height=220&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Karedla%20Simhamanoranjan%20Reddy&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Azure%20Data%20Engineer%20%7C%20Data%20Platform%20Developer&descAlignY=58&descSize=17&descColor=ffffffcc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,50:5C2D91,100:107C10&height=220&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Karedla%20Simhamanoranjan%20Reddy&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Azure%20Data%20Engineer%20%7C%20Power%20Platform%20Developer&descAlignY=58&descSize=17&descColor=ffffffcc" width="100%"/>
 </div>
 
 
@@ -59,60 +59,6 @@ Alongside Data Engineering, I have experience delivering business applications a
   <img src="https://img.shields.io/badge/Copilot%20Studio-00B4D8?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </p>
 
----
-
-## 🧰 Languages & Tools
-
-
-<p align="center">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="55" height="55"/>
-  </a>
-
-  <a href="https://spark.apache.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="PySpark" width="55" height="55"/>
-  </a>
-
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55"/>
-  </a>
-
-  <a href="https://azure.microsoft.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="55" height="55"/>
-  </a>
-
-  <a href="https://www.databricks.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Databricks" width="55" height="55"/>
-  </a>
-
-  <a href="https://delta.io/" target="_blank">
-    <img src="https://delta.io/static/939a0d0d7f3f8f45dd9c4f7a55c70db4/delta-lake-white.png" alt="Delta Lake" width="55" height="55"/>
-  </a>
-
-  <a href="https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="ADLS Gen2" width="55" height="55"/>
-  </a>
-
-  <a href="https://powerapps.microsoft.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerapps/microsoft_powerapps-icon.svg" alt="Power Apps" width="55" height="55"/>
-  </a>
-
-  <a href="https://powerautomate.microsoft.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerautomate/microsoft_powerautomate-icon.svg" alt="Power Automate" width="55" height="55"/>
-  </a>
-
-  <a href="https://powerpages.microsoft.com/" target="_blank">
-    <img src="https://img.icons8.com/color/96/microsoft.png" alt="Power Pages" width="55" height="55"/>
-  </a>
-
-  <a href="https://learn.microsoft.com/en-us/ai-builder/" target="_blank">
-    <img src="https://img.icons8.com/color/96/artificial-intelligence.png" alt="AI Builder" width="55" height="55"/>
-  </a>
-
-  <a href="https://copilotstudio.microsoft.com/" target="_blank">
-    <img src="https://img.icons8.com/color/96/chatbot.png" alt="Copilot Studio" width="55" height="55"/>
-  </a>
-</p>
 
 
 
