@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Manoranjan Reddy</h1>
 
 <h3 align="center">
-🚀 Data Engineer | ⚡ Power Platform Developer | ☁️ Azure Enthusiast
+🚀 Data Engineer | ⚡ Power Platform Developer | ☁️ Azure & Microsoft Technologies
 </h3>
 
 <p align="center">
-Passionate about transforming data into insights and building intelligent business applications using Microsoft technologies.
+Passionate about building scalable data solutions, intelligent business applications, and automation solutions using Microsoft Azure and Power Platform.
 </p>
 
 <p align="center">
@@ -16,64 +16,49 @@ Passionate about transforming data into insights and building intelligent busine
 
 ## 🚀 About Me
 
-I am a passionate **Data Engineer** and **Power Platform Developer** with hands-on experience building end-to-end data solutions on Microsoft Azure and creating business applications using the Microsoft Power Platform.
+I am a passionate **Data Engineer** and **Power Platform Developer** with hands-on experience building end-to-end data solutions on Microsoft Azure.
 
-I enjoy designing scalable data architectures, automating business processes, and developing low-code solutions that solve real-world problems.
+I work with tools like **Azure Data Factory, Databricks, Azure Synapse Analytics, Delta Lake, and Data Lakehouse Architecture** to build efficient and scalable data platforms.
 
-### 💡 What I Work With
+On the Power Platform side, I develop intelligent business applications using **Power Apps, Power Automate, Power BI, Power Pages, AI Builder, Copilot Studio, and Dataverse**.
 
-- ☁️ Azure Data Factory
-- ⚡ Azure Databricks
-- 📊 Azure Synapse Analytics
-- 🏗️ Delta Lake & Lakehouse Architecture
-- 🗄️ Azure Data Lake Storage Gen2
-- 📱 Power Apps
-- 🔄 Power Automate
-- 📈 Power BI
-- 🌐 Power Pages
-- 🤖 AI Builder
-- 🧠 Copilot Studio (Virtual Agents)
-- 💾 Dataverse
-- 🌍 REST APIs & Microsoft Graph API
+I enjoy solving business problems through automation, analytics, and low-code development while continuously learning new technologies.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Data Engineering
+### ☁️ Data Engineering
 
-<p>
-<img src="https://skillicons.dev/icons?i=azure,python,mysql,git,github" />
-</p>
+* Azure Data Factory
+* Azure Databricks
+* Azure Synapse Analytics
+* Azure Data Lake Storage Gen2
+* Delta Lake
+* Lakehouse Architecture
+* PySpark
+* SQL
 
-- Azure Data Factory
-- Azure Databricks
-- Azure Synapse Analytics
-- Azure Data Lake Storage Gen2
-- Delta Lake
-- Lakehouse Architecture
-- PySpark
-- SQL
+### ⚡ Power Platform
 
-### Power Platform
+* Power Apps
+* Power Automate
+* Power BI
+* Power Pages
+* Dataverse
+* AI Builder
+* Copilot Studio
+* Power Platform ALM
 
-- Power Apps
-- Power Automate
-- Power BI
-- Power Pages
-- Dataverse
-- AI Builder
-- Copilot Studio
-- Power Platform ALM
+### 🌐 Development
 
-### Development
-
-- JavaScript
-- HTML
-- CSS
-- REST APIs
-- Microsoft Graph API
-- Git & GitHub
+* Python
+* JavaScript
+* HTML
+* CSS
+* REST APIs
+* Microsoft Graph API
+* Git & GitHub
 
 ---
 
@@ -94,88 +79,35 @@ I enjoy designing scalable data architectures, automating business processes, an
 
 ---
 
-## 🎯 Areas of Expertise
+## 🎯 Areas of Interest
 
-✅ Azure Data Engineering
-
-✅ ETL / ELT Pipeline Development
-
-✅ Azure Data Factory
-
-✅ Azure Databricks & PySpark
-
-✅ Azure Synapse Analytics
-
-✅ Data Lakehouse Architecture
-
-✅ Power Apps Development
-
-✅ Power Automate Workflows
-
-✅ Power Pages Development
-
-✅ Dataverse Security & Table Permissions
-
-✅ REST APIs Integration
-
-✅ Microsoft Graph API
-
-✅ AI Builder & Copilot Studio
-
----
-
-## 📂 Featured Projects
-
-### 🏢 Employee Leave Management Portal
-- Power Pages
-- Dataverse
-- Power Automate Approval Workflow
-- Role-Based Security
-
-### 👥 Employee Onboarding Portal
-- Power Apps
-- Power Automate
-- Dataverse
-- Document Management
-
-### 📊 Azure Data Lakehouse Solution
-- Azure Data Factory
-- Databricks
-- Delta Lake
-- Synapse Analytics
-
-### 📈 Business Analytics Dashboard
-- Power BI
-- Azure SQL
-- Data Factory
-- Interactive Reporting
-
----
-
-## 🌱 Currently Learning
-
-- Microsoft Fabric
-- Advanced Power Pages Security
-- Copilot Studio
-- Generative AI
-- Enterprise Data Architecture
+* Data Engineering
+* Azure Cloud Technologies
+* Power Platform Development
+* Business Process Automation
+* Data Analytics & Visualization
+* AI Builder & Copilot Studio
+* REST API Integrations
+* Microsoft Ecosystem
 
 ---
 
 ## 🤝 Connect With Me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
 <h3 align="center">
-⭐ Building scalable data solutions and intelligent business applications with Microsoft Technologies
+⭐ Building data-driven solutions and intelligent business applications with Microsoft Technologies
 </h3>
