@@ -15,54 +15,92 @@
 
 ---
 
-<img align="right" alt="Coding" width="360" src="https://camo.githubusercontent.com/ea1d8f76da965e6d516eb8c5aabedda58231ef1a1b480f902a1362a04bbaa01f/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3637392f312a7a566e574a7479474f585f6b5549446d3663634366512e676966"/>
 
 ## 👨‍💻 About Me
 
-I am an **Azure Data Engineer** passionate about building scalable data platforms and modern data solutions on Microsoft Azure. I specialize in designing and developing end-to-end data pipelines using **Azure Databricks, PySpark, Delta Lake, Azure Data Lake Storage Gen2, and MySQL**.
+I'm an **Azure Data Engineer** focused on building scalable, production-grade data platforms on Microsoft Azure. I specialise in end-to-end pipeline development — from raw ingestion through to business-ready analytics layers.
 
-My experience includes data ingestion, transformation, data integration, data modeling, and implementing Lakehouse architectures that enable organizations to make data-driven decisions.
+- 🔭 Currently building **CDC and SCD Type 2 pipelines** on Azure
+- ☁️ Specialised in **Lakehouse architecture** using the Medallion pattern
+- ⚡ Core stack: **ADF · Databricks · PySpark · Delta Lake · ADLS Gen2**
+- 📊 Focused on turning raw operational data into reliable analytical assets
+- 🤖 Exploring AI-powered solutions with Microsoft technologies
+- 💬 Always happy to connect on **[LinkedIn](https://www.linkedin.com/in/manoranjan-reddy-karedla-b45179197/)**
 
-Alongside Data Engineering, I have experience delivering business applications and automation solutions using Microsoft Power Platform technologies.
+---
 
-- 🔭 Azure Data Engineer
-- ☁️ Building scalable Data Lakehouse and Data Platform solutions
-- ⚡ Experienced in Azure Databricks, PySpark, Delta Lake, ADLS Gen2, and MySQL
-- 📊 Transforming raw data into meaningful business insights
-- 🤖 Exploring AI-powered solutions using Microsoft technologies
-- 💬 LinkedIn: **[manoranjan-reddy-karedla](https://www.linkedin.com/in/manoranjan-reddy-karedla-b45179197/)**
+## 🚀 Featured Projects
 
-<br/>
+### 🔄 [CDC Data Pipeline](https://github.com/Simha-manoranjan-reddy/cdc-data-pipeline)
+End-to-end **Change Data Capture pipeline** on Azure — uses native SQL Server CDC with LSN-based watermarking to capture row-level inserts, updates, and deletes. Processes incremental changes through a full Medallion architecture (Bronze → Silver → Gold) using ADF and Databricks Delta Lake.
+
+`Azure SQL` `ADF` `ADLS Gen2` `Databricks` `Delta Lake` `PySpark` `CDC` `LSN Watermark`
+
+---
+
+### 📐 [SCD Type 2 Incremental Pipeline](https://github.com/Simha-manoranjan-reddy/SCD-Type-2-Incremental-Pipeline)
+Incremental data pipeline implementing **Slowly Changing Dimension Type 2** logic — captures only changed records using timestamp-based watermarking and preserves the complete history of every customer record change with `StartDate`, `EndDate`, and `IsCurrent` versioning.
+
+`Azure SQL` `ADF` `ADLS Gen2` `Databricks` `Delta Lake` `PySpark` `SCD Type 2` `Watermark`
+
+---
+
+### ⚡ [PetroFlow — Energy Analytics Pipeline](https://github.com/Simha-manoranjan-reddy/petroflow)
+Azure end-to-end **energy sector analytics pipeline** using ADF, Databricks, Synapse Analytics, and DevOps for CI/CD. Demonstrates production-style deployment practices alongside the core data engineering stack.
+
+`ADF` `Databricks` `Synapse Analytics` `Azure DevOps` `Delta Lake`
 
 ---
 
 ## ☁️ Azure Data Engineering Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure%20Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Delta%20Lake-00B4D8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Azure%20Data%20Lake%20Storage%20Gen2-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+<div align="center">
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00B4D8?style=for-the-badge)
+![Azure Data Lake Storage Gen2](https://img.shields.io/badge/ADLS%20Gen2-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure%20SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-5C2D91?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+</div>
 
 ---
 
 ## ⚡ Additional Expertise
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20Pages-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20Builder-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Copilot%20Studio-00B4D8?style=for-the-badge&logo=microsoft&logoColor=white"/>
-</p>
+<div align="center">
 
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Power Pages](https://img.shields.io/badge/Power%20Pages-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![AI Builder](https://img.shields.io/badge/AI%20Builder-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
+![Copilot Studio](https://img.shields.io/badge/Copilot%20Studio-00B4D8?style=for-the-badge&logo=microsoft&logoColor=white)
 
+</div>
 
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:107C10,50:5C2D91,100:0078D4&height=100&section=footer" width="100%"/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Simha-manoranjan-reddy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simha-manoranjan-reddy&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
-```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:42a5f5,60:1565c0,100:0d1b6e&height=120&section=footer" width="100%" />
+
+</div>
+
+
+
+
